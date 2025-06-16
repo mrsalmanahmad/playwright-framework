@@ -1,0 +1,1 @@
+export const logoSelector = 'img[alt="client brand banner"]';
